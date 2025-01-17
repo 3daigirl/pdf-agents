@@ -1,0 +1,72 @@
+{
+    "policyNumber": "XWA (24) 57 21 13 90",
+    "policyStartDate": "08/05/2023",
+    "policyEndDate": "08/05/2024",
+    "policyPremium": 9548.00,
+    "policyFormsandEndorsements": [
+        {
+          "id": "CNI90 11 07 18",
+          "description": "Reporting a Commercial Claim 24 Hours a Day"
+        },
+        {
+          "id": "NP 74 44 09 06",
+          "description": "U.S. Treasury Department’s Office of Foreign Assets Control (OFAC) Advisory Notice to Policyholders"
+        },
+        {
+          "id": "NP 88 94 04 10",
+          "description": "New Mexico Workers Compensation Deductible Program"
+        },
+        {
+          "id": "NP 89 69 09 21",
+          "description": "Important Policyholder Information Concerning Billing Practices"
+        },
+        {
+          "id": "SNW04 14 01 23",
+          "description": "Liberty Mutual Privacy Notice - California"
+        },
+        {
+          "id": "SNW90 03 07 18",
+          "description": "Clarification of Other States Coverage"
+        },
+        {
+          "id": "WC 00 00 00 C",
+          "description": "Workers Compensation and Employers Liability Insurance Policy"
+        },
+        {
+          "id": "WC 00 03 08",
+          "description": "Partners, Officers and Others Exclusion Endorsement"
+        },
+        {
+          "id": "WC 00 04 14 A",
+          "description": "90-Day Reporting Requirement-Notification Of Change In Ownership Endorsement"
+        },
+        {
+          "id": "WC 00 04 19 A",
+          "description": "Part Five - Premium Amendatory Endorsement"
+        },
+        {
+          "id": "WC 00 04 21 F",
+          "description": "Catastrophe (Other Than Certified Acts of Terrorism) Premium Endorsement"
+        },
+        {
+          "id": "WC 00 04 22 C",
+          "description": "Terrorism Risk Insurance Program Reauthorization Act Disclosure Endorsement"
+        },
+        {
+          "id": "WC 00 04 24",
+          "description": "Audit Noncompliance Charge Endorsement"
+        },
+        {
+          "id": "WC 00 04 25",
+          "description": "Experience Rating Modification Factor Revision Endorsement"
+        },
+        {
+          "id": "WC 30 03 01",
+          "description": "New Mexico Safety Device Coverage Endorsement"
+        },
+        {
+          "id": "WC 30 06 01 A",
+          "description": "New Mexico Cancellation and Nonrenewal Endorsement"
+        }
+    ]
+}

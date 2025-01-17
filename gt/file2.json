@@ -1,0 +1,88 @@
+{
+    "policyNumber": "59 WEC BG9SK0",
+    "policyStartDate": "07/01/2024",
+    "policyEndDate": "07/01/2025",
+    "policyPremium": 344.00,
+    "policyFormsandEndorsements": [
+      {
+        "id": "WC000000C",
+        "description": "Workers Compensation and Employers Liability Insurance Policy"
+      },
+      {
+        "id": "WC000001A.1",
+        "description": "Information Page"
+      },
+      {
+        "id": "WC000001A.2",
+        "description": "Information Page"
+      },
+      {
+        "id": "WC000403",
+        "description": "Experience Rating Modification Factor Endorsement"
+      },
+      {
+        "id": "WC000414A",
+        "description": "90-Day Reporting Requirement - Notification of Change in Ownership Endorsement"
+      },
+      {
+        "id": "WC000419A",
+        "description": "Part Five - Premium Amendatory Endorsement"
+      },
+      {
+        "id": "WC000421F",
+        "description": "Catastrophe (Other Than Certified Acts of Terrorism) Premium Endorsement"
+      },
+      {
+        "id": "WC000422C",
+        "description": "Terrorism Risk Insurance Program Reauthorization Act Disclosure Endorsement"
+      },
+      {
+        "id": "WC000424",
+        "description": "Audit Noncompliance Charge Endorsement"
+      },
+      {
+        "id": "WC020401C",
+        "description": "Arizona Alcohol and Drug-Free Workplace Premium Credit Endorsement"
+      },
+      {
+        "id": "WC020601C",
+        "description": "Arizona Cancellation and Nonrenewal Endorsement"
+      },
+      {
+        "id": "WC020603A",
+        "description": "Arizona Amendatory Endorsement"
+      },
+      {
+        "id": "WC990001K",
+        "description": "Signature/Copyright"
+      },
+      {
+        "id": "WC990002",
+        "description": "Workers' Compensation and Employers' Liability Business Insurance Policy"
+      },
+      {
+        "id": "WC990005",
+        "description": "Schedule of Operations"
+      },
+      {
+        "id": "WC990300B",
+        "description": "Workers' Compensation Broad Form Endorsement"
+      },
+      {
+        "id": "WC990359B",
+        "description": "Amendment to Workers Compensation Broad Form Endorsement - Employers Liability Stop Gap Coverage"
+      },
+      {
+        "id": "WC990368",
+        "description": "Extension of the Information Page - Item 3.D. - Endorsements"
+      },
+      {
+        "id": "WC990371A",
+        "description": "Arizona Countersignature Exclusion Endorsement"
+      },
+      {
+        "id": "WC990689",
+        "description": "Goods and Services Endorsement"
+      }
+    ]
+  }
